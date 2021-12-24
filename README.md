@@ -6,7 +6,7 @@
 
 </div>
 
-💡 I'm looking forward to working as a NLP Engineer.
+💡 I'm looking forward to working as an NLP Engineer.
 
 
 
