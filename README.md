@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Blog Badge](http://img.shields.io/badge/-Blog-EF2D5E?style=flat-square&logo=GitHub%20Sponsors&logoColor=white&link=https://beatriz-yun.github.io/)](https://beatriz-yun.github.io/)
+
+
 <!--
 **Beatriz-Yun/Beatriz-Yun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
