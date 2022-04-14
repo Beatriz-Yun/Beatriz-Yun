@@ -8,7 +8,7 @@
 
 💡 I'm looking forward to working as an NLP Engineer.
 
-💡 I'm interested in Dialog Summarization/Meeting Summarization.
+💡 Recently, interested in Dialog Summarization/Meeting Summarization.
 
 
 
